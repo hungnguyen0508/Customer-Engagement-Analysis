@@ -1,8 +1,8 @@
-# Customer Engagement Analysis
+# Customer Engagement and Product Feedback Analysis
 
 ## Project Overview
 
-The goal of this project is to analyze customer engagement to derive actionable insights and optimize future marketing strategies. By processing and analyzing customer data, particularly customer reviews, the project aims to uncover patterns and trends that can inform targeted marketing campaigns, improve customer satisfaction, and drive business growth. This analysis combines data cleaning, text segmentation, data modeling, and visualization to create a comprehensive overview of customer sentiment and engagement.
+This project is a operational intelligence report whose goal is to analyze customer engagement and their feedback to derive actionable insights and optimize future marketing strategies. By processing and analyzing customer data, particularly customer reviews, the project aims to uncover patterns and trends that can inform targeted marketing campaigns, improve customer satisfaction, and drive business growth. This analysis combines data cleaning, text segmentation, data modeling, and visualization to create a comprehensive overview of customer sentiment and engagement.
 
 ## Workflow
 
@@ -18,7 +18,7 @@ The project is structured into four main stages:
 
 ### 3. **Data Modeling and Dashboard Creation**
    - **Tool**: Power BI
-   - **Description**: The processed data is imported into Power BI, where a data model is created to highlight key trends and metrics. DAX (Data Analysis Expressions) is used for further data transformations and to build additional tables. Interactive dashboards are created to visualize insights, including customer engagement trends, sentiment over time, and key demographic information.
+   - **Description**: The processed data is imported into Power BI, where a data model is created. DAX (Data Analysis Expressions) is used to build "Date" table and calculate necessary measures. Interactive dashboards are created to visualize insights, including customer engagement trends, sentiment over time, and key demographic information.
 
 ### 4. **Analysis and Presentation**
    - **Tool**: PowerPoint
