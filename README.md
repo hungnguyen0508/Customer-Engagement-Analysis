@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an operational intelligence report whose goal is to analyze customer engagement and their feedback to derive actionable insights and optimize future marketing strategies. By processing and analyzing customer data, particularly customer reviews, the project aims to uncover patterns and trends that can inform targeted marketing campaigns, improve customer satisfaction, and drive business growth. This analysis combines data cleaning, text segmentation, data modeling, and visualization to create a comprehensive overview of customer sentiment and engagement.
+This project is an **operational intelligence report** whose goal is to analyze customer engagement and their feedback to derive actionable insights and optimize future marketing strategies. By processing and analyzing customer data, particularly customer reviews, the project aims to uncover patterns and trends that can inform targeted marketing campaigns, improve customer satisfaction, and drive business growth. This analysis combines data cleaning, text segmentation, data modeling, and visualization to create a comprehensive overview of customer sentiment and engagement.
 
 ## Workflow
 
